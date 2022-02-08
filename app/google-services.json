@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "616993328712",
+    "project_id": "sharma-digital",
+    "storage_bucket": "sharma-digital.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:616993328712:android:51889334ce26d9c25ed27d",
+        "android_client_info": {
+          "package_name": "com.ankitsharma.sharmadigital"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "616993328712-4kfg4fdnh56el08uu7sc28rd5a86s2pb.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAGi6ZzgDQuZj930L7C9_7WqyqZd-qu1wU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "616993328712-4kfg4fdnh56el08uu7sc28rd5a86s2pb.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
